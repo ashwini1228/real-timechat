@@ -6,10 +6,6 @@
 *DURATION*: 4 MONTHS 
 *MENTOR*: NEELA SANTOSH 
 
-Sure! Here's a **500-word README** in plain paragraph form, without emojis or bullet points, and written as a clear and professional project description:
-
----
-
 # Real-Time Chat Application
 
 This project is a real-time chat application developed using React.js for the frontend and Node.js with WebSocket technology (Socket.IO) for the backend. The primary purpose of this application is to demonstrate how real-time communication works between multiple clients through a WebSocket server. It provides a lightweight, responsive, and interactive user interface that allows users to send and receive messages instantly. The application is designed with simplicity and scalability in mind, making it an ideal starting point for anyone looking to build chat-based features or services into their own applications.
