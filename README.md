@@ -23,3 +23,5 @@ The application architecture separates concerns clearly between client and serve
 To run the application locally, you need to start both the server and the client. The backend Node.js server runs on a separate port (typically 5000 or 3001), while the React client runs on a development server (typically port 3000). Socket.IO handles the real-time communication bridge between them. Once started, users can open the client in a web browser, enter messages, and see them appear instantly in the chat window, as well as in any other open client sessions connected to the same server.
 
 In summary, this real-time chat application provides a functional and extendable base for any developer interested in learning how real-time web communication works. It demonstrates key concepts like WebSocket connections, event handling, client-server communication, and React state management in a real-world use case. Whether for educational purposes or as the foundation for a more complex messaging system, this project serves as a solid starting point.
+
+![Image](https://github.com/user-attachments/assets/6b6ebccb-2aa8-4e7a-8a78-c35b2167ddf7)
